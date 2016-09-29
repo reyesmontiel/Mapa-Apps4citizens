@@ -1,2 +1,2 @@
-# Mapa-Apps4citizens
-Mapa de Iniciativas Tecnopolíticas de Apps4citizens
+# Apps4citizens
+Apps para el compromiso social y político colectivo
